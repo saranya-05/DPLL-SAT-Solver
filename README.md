@@ -4,4 +4,6 @@ The Interim Report explains how the CNF encoding was done for 15 formulas provid
 
 ## SAT solver
 To run the program
+```
 python sat_dpll.py --input_file einstein.cnf
+```
