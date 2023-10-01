@@ -2,7 +2,7 @@ from collections import defaultdict
 import os
 import time
 import argparse
-from heuristics import random_choice,two_clause,find_max_literal_weight,most_occurrences_heuristic
+from heuristics import random_choice,two_clause,find_max_literal_weight
 
 def parse_dimacs(file_path):
     parsed_clauses = []
