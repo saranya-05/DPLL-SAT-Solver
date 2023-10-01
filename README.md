@@ -7,5 +7,8 @@ DPLL algorithm was used to solve the puzzle using maximum weights(Jersolow Wang 
 
 To run the program
 ```
-python sat_dpll.py --input_file einstein.cnf
+python sat_dpll.py
+
 ```
+
+
